@@ -1,0 +1,26 @@
+{
+  "index": "Prompt Engineering",
+  "introduction": "Introduction",
+  "techniques": "Techniques",
+  "applications": "Applications",
+  "models": "Models",
+  "risks": "Risks & Misuses",
+  "paper-reviews": "Paper Reviews",
+  "papers": "Papers",
+  "tools": "Tools",
+  "notebooks": "Notebooks",
+  "datasets": "Datasets",
+  "readings": "Additional Readings",
+  "course": {
+    "title": "Prompt Engineering Course",
+    "type": "page"
+  },
+  "services": {
+    "title": "Services",
+    "type": "page"
+  },
+  "about": {
+    "title": "About",
+    "type": "page"
+  }
+}
